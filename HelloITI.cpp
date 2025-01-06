@@ -7,7 +7,9 @@ public:
 
     void printHelloITI()
     {
-        cout<<"Hello ITI"<<endl;
+ 
+        cout<<"Hello ITI"<<endl; 
+      	cout<<"Hello ITI 2"<<endl;
     }
 
      void printHelloGIT()
